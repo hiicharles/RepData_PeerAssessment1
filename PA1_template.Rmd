@@ -1,3 +1,6 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
 ---
 title: "Reproducible Research - Peer Assessments 1"
 author: "hiicharles@gmail.com"
